@@ -1,0 +1,5 @@
+dist
+__generated
+node_modules
+.env
+.env.local
